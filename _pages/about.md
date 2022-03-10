@@ -14,14 +14,15 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: false  # includes social icons at the bottom of the page
 ---
 
-PhD candidate, Antai College of Economics and Management,Shanghai Jiaotong University<br>
+Ph.D. candidate, Antai College of Economics and Management, Shanghai Jiaotong University<br>
 Room 506, Huigu Building, NO.1954 Huashan Road, Xuhui District, Shanghai, China<br>
 Wang_kunlun0513@sjtu.edu.cn, shawn0513@163.com <br>
 [Google scholar](https://scholar.google.com/citations?user=hBZ_tKsAAAAJ) | [Github](https://github.com/jindongwang) | [DBLP](https://dblp.org/pid/19/2969-1.html) || [Zhihu](https://www.zhihu.com/people/jindongwang) | [Weibo](http://www.weibo.com/wjdbr) | [Wechat](http://jd92.wang/assets/image/wechat_public_account.jpg) | [Bilibili](https://space.bilibili.com/477087194) || [Resume](http://jd92.wang/assets/files/../../../../../assets/files/cv_jindongwang_cn-eng.pdf)
 
-I'm currently a researcher at [Microsoft Research Asia (MSRA)](http://www.msra.cn/). Before joining MSRA, I obtained my Ph.D. from Institute of Computing Technology, Chinese Academy of Sciences in June, 2019. My doctoral thesis was awarded the excellent Ph.D. thesis of Chinese Academy of Sciences. In 2018/04--2018/08, I was a visitor of Prof. [Qiang Yang](https://cse.hkust.edu.hk/~qyang/)'s group at Hong Kong University of Science and Technology (HKUST). My work on transfer learning has won the best paper awards in ICCSE 2018 and FTL-IJCAI 2019. In 2021, I published the textbook [迁移学习导论](http://jd92.wang/tlbook), a hands-on introduction to transfer learning. 
+I'm currently a Ph.D. candidate at Antai College of Economics and Management, Shanghai Jiaotong University. # Before joining MSRA, I obtained my Ph.D. from Institute of Computing Technology, Chinese Academy of Sciences in June, 2019. My doctoral thesis was awarded the excellent Ph.D. thesis of Chinese Academy of Sciences. In 2018/04--2018/08, I was a visitor of Prof. [Qiang Yang](https://cse.hkust.edu.hk/~qyang/)'s group at Hong Kong University of Science and Technology (HKUST). My work on transfer learning has won the best paper awards in ICCSE 2018 and FTL-IJCAI 2019. In 2021, I published the textbook [迁移学习导论](http://jd92.wang/tlbook), a hands-on introduction to transfer learning. 
 
-Research interest: transfer learning, out-of-distribution / domain generalization, semi-supervised learning, federated learning, and related applications such as activity recognition and computer vision. *Never stop looking for highly self-motivated students for internship or collaboration.*
+Research field: Environmental Economics, Regional Development and Urban Economics
+Research interest: Information difussion, Willingness to pay (WTP), Global climate change, New energy vehicles (NEVs) 
 
 <!-- ### Highlights
 
